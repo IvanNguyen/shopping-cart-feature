@@ -1,6 +1,8 @@
 
 DEMO PROJECT : shopping-cart.freevnn.com
 
+Project chỉ bao gồm các chức năng đơn giản như, click button mua hàng để thêm vào giỏ hàng, tình giá tiền, tùy chỉnh số lượng sản phẩm, xóa sản phẩm khỏi giỏ hàng, hiện thông báo cho người dùng khi thao tác các hành động !
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
